@@ -25,8 +25,8 @@ This project uses a machine learning model to predict mortality events based on 
 
 | Type            | Link                                                                 |
 |-----------------|----------------------------------------------------------------------|
-| 🔗 Hugging Face | [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/ZiadAbdelrahim/heart-failure) |
-| 🖥️ Presentation | [Project Slides](https://drive.google.com/drive/folders/1zNW1IOmckgvR3_NYSZtioMb0o2bjjBao?usp=sharing)                |
+| 🔗 Hugging Face | [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/mora2004/HeartFailure ) |
+| 🖥️ Presentation | [Project Slides](https://drive.google.com/file/d/1foLTy3oQ4pbHYLaTunvakqFvfxQ643yr/view?usp=sharing)                |
 
 ## 🧠 Model Details
 
